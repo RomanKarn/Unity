@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+   <question num="0">
+      <foto>question1</foto>
+      <text>Как вы проникли в зону ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Наняли проводника, который провел вас по безопасному пути.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Заплатили военным на блокпосте, чтобы они вас пропустили.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Тихо пробрались под покровом ночи через колючую проволоку.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Вы записались в научную группу, по исследованию зоны и получили пропуск.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>На машине тараном пролетели через блокпост раскидывая светошумовые гранаты во круг.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="1">
+      <foto>question2</foto>
+      <text>После попадания в зону вы в первую очередь направились в сторону...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вы что-то слышали про лагерь новичков, поэтому отправились туда.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Зона это анархия, а в анархии только братки могут создать порядок.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Вдалеке вы услышали "Мир со страхом смотрит на расползающеюся заразу зоны..." вы сразу поняли, что вам туда.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Вдалеке вы услышали *музыка Снуп дога* и вы сразу поняли, что с этими людьми вы на одной волне.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="2">
+      <foto>question3</foto>
+      <text>Первые дни в зоне вы провели за...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Поиском работы, вы сюда пришли зарабатывать, а не отдыхать.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Попойки в баре, нужно хорошо отдохнуть перед рейдом в опасные места.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вы помогали всем сталкерам, чем могли, чтобы заработать положительную репутацию.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Украденный батон тут, консервы там, "случайно" выпавший магазин для ПМа здесь. Этим растяпам это все равно не пригодится, а вам может спасти жизнь.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>За разговорами с опытными сталкерами о "аномалиях и мутантах, а не об хабаре и наварке".</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="3">
+      <foto>question4</foto>
+      <text>Как вы провели свой первый рейд ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Командная работа вместе с другими сталкерами залог успеха.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Изучил все ближайшие аномалии не далеко от базы, может тут и не богато, но зато безопасно.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Зачем ходить в рейд и рисковать, если можно ждать лохов и брать с них процент.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Кто не рискует, тот не пьет шампанского и не получает настоящий хабар!</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Объединился с такими же новичками, но не рисковал сам, пуская их в перед, чтобы если что вовремя сбежать.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="4">
+      <foto>question5</foto>
+      <text>Вы смогли заполучить жирный хабар в первом рейде, но в вашей группе есть новички, которые вышли в минус за этот рейд. Ваши действия ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я не мать Тереза, каждый получает столько сколько заслужил и заработал.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Поделюсь частью хабара, сегодня помогаешь ты, завтра помогут тебе.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>ХА! Ну и лохи, а нечего хлопать варежкой, кто первый заметил, того и тапки.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Раз есть лишний хабар значит можно и хорошенько отдохнуть!</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Отложить на будущее, белая полоса не может идти вечно.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="5">
+      <foto>question6</foto>
+      <text>Ваш первый выброс... Голова гудит, руки скручивает, а ужин лезет наружу. Множество картинок появляется перед вашими глазами это...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Исполнитель желаний. Клайдайк. Слава. Деньги. Власть.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Дверь. Бункер. Тайна. ЧАЭС.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Бой. Смерть. Товарищ. Надежда. Безопасность.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Какие картинки !? Сейчас бы что-нибудь для расслабления покурить.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Почтение. Выпивка. Маслина. Хата.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="6">
+      <foto>question7</foto>
+      <text>Час летит как минута, неделя как один день и вот вы уже целый месяц в зоне и живы. Вы больше не зелень, а настоящий сталкер (или не сталкер, кто знает, судьба это лишь не правильно понятая шутка).</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вы ходите по базе с высоко поднятой головой и хвастаетесь перед новичками, что уже завалили кровососа голыми руками.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вы решаетесь написать книгу "Сталкер с Новичка до Мастера" это поможет молодым сталкерам.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Вы рады, что еще живы, но это лишь месяц, а не год. Вам предстоит долгий рейд, длинною в год или даже во всю жизнь. К этому нужно готовиться.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Прожил месяц, проживу и два, а потом и год. Зачем запариваться ?</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Выбрал ли я правильный путь...?</text>
+            <point>0</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="7">
+      <foto>question8</foto>
+      <text>В зоне каждый день вы сталкиваетесь с моральным выбором. И сегодня не исключение, в рейде вы натыкаетесь на раненого сталкера, он потерял много крови, а за вами гонится стая слепышей. Какой выбор вы делаете ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>На его месте мог бы быть я... Закину его на свое плече и заберусь по выше, попробую отстреляться от слепышей и вылечить сталкера.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Добью, чтобы не мучался, все равно он или истечет кровью, или его загрызут слепыши.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Пробегу мимо, пусть слепешыши отвлекутся на это мясо, тогда мне удаться оторваться.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Проверю его пульс, вколю ему адреналин и мы вместе попробуем отбиться от собак. Никудышный боец все еще боец.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="8">
+      <foto>question9</foto>
+      <text>К вам в группу напрашивается новичок, он еще зеленый, но больших косяков за ним не замечено. Как вы поступите ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Возьму, две головы лучше, чем одна, да и молодняк, кто-то должен же обучать.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Откажу. Я не хочу повышать риски, в зоне и так они слишком высоки.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Соглашусь, пусть он для меня дорогу проверяет, а то некоторые аномалии не срабатывают, если бросить в них болт.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Какая разница? Выживет молодец, помрет, ну такова судьба.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="9">
+      <foto>question10</foto>
+      <text>Внимание анекдот!</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Один сталкер говорит другому:— А я с собой в поход всегда фотографию тёщи беру....</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>ХАХАХАХАХА! Ну ты выдал.</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>..........</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Так не смешно же!</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Музыкальная пауза.</text>
+            <point>0</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="10">
+      <foto>question11</foto>
+      <text>Ваше первое подземелье.</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я туда не пойду. Там А темно и Б страшно.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Говорят, что эти туннели простираются под всей зоной и где-то тут есть тайник легендарного сталкера - Стрелка.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>"Сталкеры сюда так и лезут им тут что мёдом намазано."</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Если я смогу изучить и составить карту катакомб, тогда для меня откроется новый мир быстрого передвижения по зоне.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="11">
+      <foto>question12</foto>
+      <text>Время летит, а мой опыт выживания в зоне растет. Мне пора двигаться дальше на север, но вопрос куда ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я слышал, что на армейских складах обосновался Долг, они люди дисциплины, так что мне точно туда.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Деньги. Деньги решают все мои проблемы. А самые большие деньги у наемников! Мне нужно в Мертвый город.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Все сталкеры знают о баре «100 рентген»</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Настоящие пацаны кантуются в Темной долине.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Я создам свое убежище с тайником стрелка и дешифратором!</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="12">
+      <foto>question13</foto>
+      <text>Вы ни когда не думали и не предполагали, что это время наступит. Рейды превратились в рутину. Хабар. Выпил. Выброс. Хабар... Выпил... Выброс....</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Я ИЗМЕНЮСЬ! Пора собрать самых верных товарищей и отправится к центру зоны!</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Я ИЗМЕНЮСЬ! Пора прекратить ходить под кем-то и самому стать паханом!</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я ИЗМЕНЮСЬ! Пора уничтожить зону, она принесла слишком много зла!</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>А может все и не так уж и плохо ?</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я сам знал на что, шел, так что это лишь последствия моих выборов.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="13">
+      <foto>question14</foto>
+      <text>Я приближаюсь к своей цели. Центр зоны, место пахана, глава наемников, капитан отряда долга, не важно. Важно лишь, то что до моей цели остался лишь один шаг.</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>И я его сделаю!</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я! И ТОЛЬКО Я! Достоин всего этого!</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Я рад, что добрался до сюда со своими товарищами.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Хороший я или плохой, не важно главное я достиг чего хотел.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="14">
+      <foto>question15</foto>
+      <text>Вы стоите перед исполнителем желаний. Что же вы загадаете ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я хочу власть над миром.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>ХАОС!</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Это ложь! Он не настоящий, моя цель дальше!</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Покажи мне чего я достоин.</text>
+            <point>0</point>
+         </ansver>
+      </ansvers>
+   </question>
+</questions>

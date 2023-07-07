@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+   <question num="0">
+      <foto>question1</foto>
+      <text>Проникая в зону вас заметили военные с блокпоста, ваши действия.</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Бросится в перед со всех ног и надеется на удачу.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Использовать дымовую шашку и скрыться в дыму.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Короткими перебежками, от укрытия к укрытию, попытаться скрыться за складками местности.</text>
+            <point>+2</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Попытаться отстреляться от преследователей.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="1">
+      <foto>question2</foto>
+      <text>Что вы возьмете в первую свою вылазку в зону?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Оружие, пару магазинов, противогаз, медицину.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Оружие, еду, дополнительную броню.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Нож, самое сильное оружие зоны.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Детектор, контейнер для артефактов, противогаз, антирадин.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="2">
+      <foto>question10</foto>
+      <text>Попадая в Зону каждому сталкеру дается кличка, а ваша будет...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Флудур.</text>
+            <point>+2</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Хук</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Волк</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Батон</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Кракен</text>
+            <point>+1</point>
+         </ansver>
+        <ansver>
+          <type>lavelGoodAndBead</type>
+          <text>Бард</text>
+          <point>+1</point>
+        </ansver>
+      </ansvers>
+   </question>
+   <question num="3">
+      <foto>question4</foto>
+      <text>Что вы будете делать, если встретишься с кровососом на кордоне ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Попробую его разглядеть и взять на "реакцию".</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Брошусь бежать к ближайшему укрытию.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Заберусь как можно выше и буду звать на помощь.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Да какие кровососы могут быть на кордоне ?</text>
+            <point>-2</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="4">
+      <foto>question11</foto>
+      <text>Пробравшись в заброшенное здание вы обнаруживаете, что тут была бойня между бандитами и наемниками, похоже они что-то не поделили и перестреляли друг друга. Из рации вы слышите, что сюда идет подмога наймов.</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Нужно сваливать от сюда.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Хабар, есть хабар загружу на свой хребет как можно больше оружия.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Попробовать найти причину их конфликта.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Попробовать устроить засаду для тех кто идет на подмогу.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="5">
+      <foto>question8</foto>
+      <text>Вас ранили в ногу и вы еле-еле передвигаетесь. Похоже на запах крови сюда бегут слепыши, что вы будете делать ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вызову на помощь Сидоровича, может он отправит кого нибудь на помощь.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Заберусь на камень и буду отстреливаться до последнего патрона.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Попробую добраться до ближайшей базы.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Сброшу рюкзак с едой измазанной в своей крови и попробую запутать следы.</text>
+            <point>+2</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="6">
+      <foto>question5</foto>
+      <text>Вы ведите артефакт, который лежит на холме ваши действия ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Бросится к нему, пока другие его не забрали.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Аккуратно с помощью болтов разведать местность на наличие аномалий.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Подозрительно... лучше вообще не рисковать.</text>
+            <point>+2</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>А почему я вообще могу видеть его без детектора...?</text>
+            <point>+2</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Найти отмычку который бы его вытащил и поле кричать "Брешут! Брешут, что тут есть аномалии!"</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="7">
+      <foto>question3</foto>
+      <text>Вы насобирали много хабара, пришло сделать нычку, где же она будет ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Закину свой рюкзак на крышу арены в баре.</text>
+            <point>+2</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Сложу все вещи в контейнер рядом с торговцем.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Скину вещи на пол, да кому они вообще нужны.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>С трактора запрыгну на камаз с камаза пройдусь по линиям электропередач, потом выпрыгну за "карту" и залезу как можно выше.</text>
+            <point>+3</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="8">
+      <foto>question13</foto>
+      <text>Сводя бухгалтерскую книгу вы понимаете, что вышли в минус за этот месяц и решаете изменить подход к заработку, но как ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>На все деньги купить контейнеров для артефактов и ССП-99 «Эколог», и не вылезать из аномалий.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Начать работать на Бармена, он вроде платит хорошие деньги.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вступить в долг, тогда можно вообще забыть об обеспечении.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Насобирать консервных банок для Сидоровича.</text>
+            <point>+2</point>
+         </ansver>
+        <ansver>
+          <type>lavelGoodAndBead</type>
+          <text>Начать охоту на мутантов, и продавать части тел, охотникам в депо на Свалке.</text>
+          <point>+1</point>
+        </ansver>
+        <ansver>
+          <type>lavelGoodAndBead</type>
+          <text>Вступить в наемники и заключить "Контракт на хорошую жизнь".</text>
+          <point>-3</point>
+        </ansver>
+      </ansvers>
+   </question>
+   <question num="9">
+      <foto>question3</foto>
+      <text>Вам говорят "Проходи не задерживайся" и "Тебе сюда нельзя", ваши действия ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Ну нельзя так нельзя.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>А за шоколадку пропустишь ?</text>
+            <point>+2</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Попробую оттолкнуть его с помощью брони.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Со свинцом в голове ты будешь уже не таким разговорчивым.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="10">
+      <foto>question14</foto>
+      <text>Направляясь к центру зоны вы выбираете базы на которых сделаете привал, это будет ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Армейские склады, Скадовск, Янов, Прачечная в Припяти.</text>
+            <point>+2</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Радар, Гостиница в Припяти, Х-18.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Деревня новичков, база "Чистого неба", Лесопилка в Темной лощине.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>А где я сейчас ?</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="11">
+      <foto>question6</foto>
+      <text>Чем дальше в зону, тем...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Черствей батоны, а колбаса бумажней.</text>
+            <point>+3</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Тем толще псевдотушканчики.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Больше клондайк артефактов.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Больше лабораторий с документами.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Тем сильнее пси излучение.</text>
+            <point>+1</point>
+         </ansver>
+        <ansver>
+          <type>lavelGoodAndBead</type>
+          <text>Монолит... Зачем ты нас покинул монолит...</text>
+          <point>-2</point>
+        </ansver>
+      </ansvers>
+   </question>
+   <question num="12">
+      <foto>question15</foto>
+      <text>Что загадать у Исполнителя желаний ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Чтобы зона исчезла. Error.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Богатство.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Так он же не настоящий.</text>
+            <point>+3</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Больше душных квестов в ОП 2.3 и еще более медленный бег в NLС.</text>
+            <point>-100</point>
+         </ansver>
+      </ansvers>
+   </question>
+</questions>

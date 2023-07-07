@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plaers>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="1">
+        <foto>RG_NOV_photo1</foto>
+        <icon>RG_NOV</icon>
+        <text>Вы Новичок.</text>
+    </plaer>
+  <plaer lavelGoodAndBead="2" lavelOrderAndChaos="1">
+    <foto>RG_NOV_photo2</foto>
+    <icon>RG_NOV</icon>
+    <text>Вы Новичок.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="3" lavelOrderAndChaos="1">
+    <foto>RG_NOV_photo3</foto>
+    <icon>RG_NOV</icon>
+    <text>Вы Новичок.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="4" lavelOrderAndChaos="1">
+    <foto>RG_NOV_photo4</foto>
+    <icon>RG_NOV</icon>
+    <text>Вы Новичок.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="5" lavelOrderAndChaos="1">
+    <foto>RG_NOV_photo5</foto>
+    <icon>RG_NOV</icon>
+    <text>Вы Новичок.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="6" lavelOrderAndChaos="1">
+    <foto>RG_OP_photo1</foto>
+    <icon>RG_OP</icon>
+    <text>Вы Опытный</text>
+  </plaer>
+  <plaer lavelGoodAndBead="7" lavelOrderAndChaos="1">
+    <foto>RG_OP_photo2</foto>
+    <icon>RG_OP</icon>
+    <text>Вы Опытный.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="8" lavelOrderAndChaos="1">
+    <foto>RG_OP_photo3</foto>
+    <icon>RG_OP</icon>
+    <text>Вы Опытный.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="9" lavelOrderAndChaos="1">
+    <foto>RG_OP_photo4</foto>
+    <icon>RG_OP</icon>
+    <text>Вы Опытный.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="10" lavelOrderAndChaos="1">
+    <foto>RG_OP_photo5</foto>
+    <icon>RG_OP</icon>
+    <text>Вы Опытный.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="11" lavelOrderAndChaos="1">
+    <foto>RG_VET_photo1</foto>
+    <icon>RG_VET</icon>
+    <text>Вы Ветеран.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="12" lavelOrderAndChaos="1">
+    <foto>RG_VET_photo2</foto>
+    <icon>RG_VET</icon>
+    <text>Вы Ветеран.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="13" lavelOrderAndChaos="1">
+    <foto>RG_VET_photo3</foto>
+    <icon>RG_VET</icon>
+    <text>Вы Ветеран.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="14" lavelOrderAndChaos="1">
+    <foto>RG_VET_photo4</foto>
+    <icon>RG_VET</icon>
+    <text>Вы Ветеран.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="15" lavelOrderAndChaos="1">
+    <foto>RG_VET_photo5</foto>
+    <icon>RG_VET</icon>
+    <text>Вы Ветеран.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="16" lavelOrderAndChaos="1">
+    <foto>RG_MAS_photo1</foto>
+    <icon>RG_MAS</icon>
+    <text>Вы Мастер.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="17" lavelOrderAndChaos="1">
+    <foto>RG_MAS_photo2</foto>
+    <icon>RG_MAS</icon>
+    <text>Вы Мастер.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="18" lavelOrderAndChaos="1">
+    <foto>RG_MAS_photo3</foto>
+    <icon>RG_MAS</icon>
+    <text>Вы Мастер.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="19" lavelOrderAndChaos="1">
+    <foto>RG_MAS_photo4</foto>
+    <icon>RG_MAS</icon>
+    <text>Вы Мастер.</text>
+  </plaer>
+  <plaer lavelGoodAndBead="20" lavelOrderAndChaos="1">
+    <foto>RG_MAS_photo5</foto>
+    <icon>RG_MAS</icon>
+    <text>Вы Мастер.</text>
+  </plaer>
+</plaers>

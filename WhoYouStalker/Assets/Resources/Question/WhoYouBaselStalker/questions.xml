@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+   <question num="0">
+      <foto>question29</foto>
+      <text>При изучении зоны вы поняли, что вам чего-то не хватает, но вы не можете уловить это чувство... Оно похоже на...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Любопытство вам хочется приблизиться к разгадке зоны.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Одиночество, вы хотите найти товарищей.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Ностальгию вас тянет на большую землю.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Усталость... усталость от всего, но больше всего от людей.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="1">
+      <foto>question16</foto>
+      <text>Когда вы находите артефакт вы первым делом...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Рассказываете своим друзьям, как вам повезло.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Как можно быстрее прячете его в безопасное место.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Хотите его продать.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Хотите узнать его свойства, чтобы положить его в контейнер на поясе.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Безразличие, вы уже столько этих "Кровь камня" нашли, что одним больше одним меньше.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="2">
+      <foto>question17</foto>
+      <text>В лавке у Сидоровича вы смотрите его обновленный ассортимент...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Сидор может и жмот, но из-за близости периметра у него можно найти лучшие пушки.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Не ассортимент, а сборище консервных банок, лучше бы в бар отправился.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Может лучше подкопить денег и заказать у Шустрова ?</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Посмотрели и хватит, все равно вглубь зоны я не собираюсь, а тут и моего обреза хватает.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Хорошо бы если бы у Сидора можно было оптом закупать со скидочкой... Эх мечты.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="3">
+      <foto>question18</foto>
+      <text>Вы решили примкнуть к группе сталкеров, и вам поручили купить провизию и дали на это деньги.</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вы решили выбрать лучшую тушёнку и колбасу, можно из своих денег докинуть для товарищей ничего не жалко.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Нужно выбрать практичную еду для вылазки на север.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Было ваше стало наше. Деньги я оставлю себе, все равно в одиночку лучше жить.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>У Бармена можно закупиться по скидке если брать оптом.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>На деньги купим водки, а водку обменяем на еду у военных. Сталкер-Коммерсант в деле.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="4">
+      <foto>question19</foto>
+      <text>После долгих раздумий, вы решили где нибудь обосноваться, и ваш выбор пал на...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Деревня новичков, безопасно и всегда выпить можно.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Бар - центр всей зоны.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Чем ближе к ЧАЭС, тем больше хабар. Мой выбор Янов.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>База "Чистого неба". Люди там интересные и образованные.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Настоящие пацаны в Темной долине.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>В подземелье. Тихо, а главное людей нет.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="5">
+      <foto>question17</foto>
+      <text>Выбирая для себя оружие для похода на север, вы первым делом обращаете внимание на...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>МОЩЬ И БОЕЗОПАС. С верными товарищами, которые тебе прикроют спину ничего не страшно.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>То что на этот ствол можно накрутить глушитель и различие обвесы для большей универсальности.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Снайперская винтовка мой выбор.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Распространённость патрона на севере зоны, там же торговцев мало.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Мне и с моим тозиком хорошо.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="6">
+      <foto>question20</foto>
+      <text>После долгого рейда вы решаете бросить свои кости куда нибудь и это...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Тихое и спокойное место.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>В общую казарму, главное ценности под подушку закинуть.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Зачем спасть, еще два энергетика и я готов снова штурмовать зону.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Сниму комнату и посплю в безопасности.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Попрошу своих товарищей присмотреть за мной.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="7">
+      <foto>question21</foto>
+      <text>Случилась страшная трагедия ваш напарник... погиб...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Пойду напьюсь в баре...</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вот вы и остались один... совсем...</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Исполнитель желаний. Он должен все исправить!</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Смерть... Кругом смерть... Может мне пора уйти из Зоны.</text>
+            <point>-1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="8">
+      <foto>question22</foto>
+      <text>После тяжелого рейда вы решили покемарить на диванчике и вам снится...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Детство. Деревня. Дом. Парное молоко. Родители. Лето.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Как вы с друзьями празднуете выпускной из школы.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Пеня "Сектора Газа", к чему бы это ?</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Как вы играете в лучшие стратегии своего детства.</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Ничего... Тьма...</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Как вы стали легендой в зоне наравне со Стрелком.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="9">
+      <foto>question23</foto>
+      <text>В разговоре, со своими товарищами, все начали вспоминать свои заветные мечты и рассказывать их. Вот и очередь дошла и до вас....</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Вы человек простой и мечтаете о больших деньгах.</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>СЧАСТЬЕ !!! Я всего лишь хочу быть счастливым !!! Как Берсерк !</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Дом... Семья... Любовь... Банальщина.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Забыть свое прошлое.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Узнать хотя бы часть тайн мира.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="10">
+      <foto>question24</foto>
+      <text>Многие люди в зону приходят ради денег, но не многие могут достичь своей мечты, но вы другой вы смогли заработать круглую сумму. Что же вы сделаете с такими деньгами ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Уйду из Зоны и буду жить припеваючи.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Куплю лучшее снаряжение и отправлюсь на ЧАЭС.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Создам собственную группировку, вы давно мечтали об этом.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Создам фонд помощи погибшим сталкерам.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="11">
+      <foto>question25</foto>
+      <text>Случилось самое страшное в зоне... Вы неожиданно решили наклеить обои на своей базе. Первый вопрос, который возник это на... какой клей клеить и каким цветом обои.</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Белый!</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Черный!</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>В горошек!</text>
+            <point>0</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>В розовый!!!</text>
+            <point>0</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="12">
+      <foto>question26</foto>
+      <text>Каждый сталкер берет пример со своего старшего товарища, для вас этот человек был...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Стрелок. Легенда зоны.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Волк. Наставник всех новичков зоны.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Болотный доктор. Гэндальф мира Зоны.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Бармен. Главный торговец зоны.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Шустрый. История человека от новичка до легенды, хоть и только в определенных кругах.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="13">
+      <foto>question27</foto>
+      <text>Каждое действие имеет последствие. Каждый выбор связан с судьбой отдельного человека. Какой выбор сделает вы ?</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Я одинокий волк, мне нужен, только я.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Этот мир жесток и только верные друзья, которые могут подставить плече, помогут в этом мире.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Я человек маленький и не могу ничего решать.</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Это вызов ?! Я люблю вызовы !</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+   <question num="14">
+      <foto>question28</foto>
+      <text>Пройдя путь до центра зоны вы обернулись и увидели...</text>
+      <ansvers>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Трупы...</text>
+            <point>-1</point>
+         </ansver>
+         <ansver>
+            <type>lavelOrderAndChaos</type>
+            <text>Новый рассвет.</text>
+            <point>+1</point>
+         </ansver>
+         <ansver>
+            <type>lavelGoodAndBead</type>
+            <text>Что это только начало.</text>
+            <point>+1</point>
+         </ansver>
+      </ansvers>
+   </question>
+</questions>

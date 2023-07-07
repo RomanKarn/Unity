@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plaers>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="1">
+        <foto>plaerFoto1</foto>
+        <icon>STL</icon>
+        <text>Вы Бармен. Торговец. Один из "смотрителей" зоны, который был причастен к многим поворотным событиям, которые влияли на самые дальние закоулки зоны. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="2">
+        <foto>plaerFoto2</foto>
+        <icon>STL</icon>
+        <text>Вы Сидорович. Наверное самый известный прохиндей зоны. Нету не одного новичка, которому бы они не впарил просроченные консервы в три дорога. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="3">
+        <foto>plaerFoto3</foto>
+        <icon>VNO</icon>
+        <text>Вы Майор Кузнецов. Первое препятствие, если не считать блокпоста, которое предстоит преодолеть любому начинающему сталкеру. Хотя и не самое сложное, ведь нужно просто иметь 500 денег.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="4">
+        <foto>plaerFoto4</foto>
+        <icon>STL</icon>
+        <text>Вы Отец Валерьян. Один из немногих ветеранов-первопроходцев промышлявших в Зоне за долго до второго Сверхвыброса. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="5">
+        <foto>plaerFoto5</foto>
+        <icon>DLO</icon>
+        <text>Вы Полковник Петренко. Один из основателей «Долга» и по совместительству главный идеолог. Это он разработал свод правил и завербовал практически всех ключевых членов «Долга». </text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="1">
+        <foto>plaerFoto6</foto>
+        <icon>STL</icon>
+        <text>Вы Лоцман. Добрый и бескорыстный человек. Проводник между Скадовском и Яновым.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="2">
+        <foto>plaerFoto7</foto>
+        <icon>STL</icon>
+        <text>Вы Гонта. Профессиональный охотник на мутантов. Непревзойдённым авторитетом для Гонты является Зверобой, которого он при случае цитирует.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="3">
+        <foto>plaerFoto8</foto>
+        <icon>DLO</icon>
+        <text>Вы Прапор. Верный служитель долга и вечно не довольный человек, по причине боли в спине, из-за отсутствия 4 глаз плоти и 5 хвостов псевдособаки.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="4">
+        <foto>plaerFoto9</foto>
+        <icon>DLO</icon>
+        <text>Вы Зулус. Как говорится в поговорке, дайте человеку рыбу он будет сыт один день, дайте человеку пулемет он закричит "ПЕРЕСТРЕЛЯЮ ГАДОВ!!!"</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="5">
+        <foto>plaerFoto10</foto>
+        <icon>DLO</icon>
+        <text>Вы Подполковник Шульга. Человек удивительной закалки деливший одно здание со Свободой и не начавший стрельбу в закрытом помещении.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="1">
+        <foto>plaerFoto11</foto>
+        <icon>STL</icon>
+        <text>Вы Серый. Не по цвету, но по сути. Хотя обычным сталкерам он больше известен как «Молодцы, мужики, мы их одолели! Всем отдыхать. А ты, сталкер, подойди сюда, поболтаем.»</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="2">
+        <foto>plaerFoto12</foto>
+        <icon>STL</icon>
+        <text>Вы Бес. Человек с темным прошлым, но светлым будущем, если он конечно не вступит на темную дорожку.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="3">
+        <foto>plaerFoto13</foto>
+        <icon>MO</icon>
+        <text>Вы Бродяга. Один из не многих, кто смог преодолеть свое желание поклоняться великому монолиту, в отличие от клоунов одетых в сине красные трико.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="4">
+        <foto>plaerFoto14</foto>
+        <icon>CHT</icon>
+        <text>Вы Новиков. Как говорится "Все захреначим, синей изолентой"! </text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="5">
+        <foto>plaerFoto15</foto>
+        <icon>VNO</icon>
+        <text>Вы Лейтенант Соколов. Автор фразы "Я не трус, но я боюсь." и "Не нравится мне все это." </text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="1">
+        <foto>plaerFoto16</foto>
+        <icon>STL</icon>
+        <text>Вы Призрак. Легенда. Человек тащивший на себе Стрелка через весь Радар. Создатель декодера и погибший в лаборатории Х16.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="2">
+        <foto>plaerFoto17</foto>
+        <icon>STL</icon>
+        <text>Вы Фанат. Следующий староста деревни после Волка. Защитили деревню от наемников, которые пришли туда из-за Сидоровича, или это было в параллельной вселенной...</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="3">
+        <foto>plaerFoto18</foto>
+        <icon>STL</icon>
+        <text>Вы Глухарь. Хороший следак, которого засола... нет, не глубокая трясина, а другой мужик, причем насмерть.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="4">
+        <foto>plaerFoto19</foto>
+        <icon>CHT</icon>
+        <text>Вы Профессор Каланча. Человек который "Ничего подобного  ранее не видел" и подражающий великому Да да.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="5">
+        <foto>plaerFoto20</foto>
+        <icon>VNO</icon>
+        <text>Вы Полковник Ковальский. Помни когда проваливается очередная операция "Фарватер", где-то плачет один Дегтярёв, а ты становишься крайним. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="1">
+        <foto>plaerFoto21</foto>
+        <icon>STL</icon>
+        <text>Вы Стрелок. Легенда не только зоны, но и законов физики. Первый придумавший, что если положить вещи в другого сталкера и нести этого сталкера, то тебе не придется нести вещи. 300 QI человек.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="2">
+        <foto>plaerFoto22</foto>
+        <icon>STL</icon>
+        <text>Вы Волк. Аув. Трудно быть первым и не сгореть в костре на Армейских Складах.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="3">
+        <foto>plaerFoto23</foto>
+        <icon>VNO</icon>
+        <text>Вы Дегтярёв. Человек получивший внеочередное звание полковника. А также не много шизофреник, поэтому ему абсолютно плевать на контроллеров и он идет их резать ножом.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="4">
+        <foto>plaerFoto24</foto>
+        <icon>STL</icon>
+        <text>Вы Доктор. Человек, который каждый раз когда видит Стрелка понимает, что он сейчас будет его лечить. А еще у вас есть песик, как у Ноя.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="5">
+        <foto>plaerFoto25</foto>
+        <icon>EKL</icon>
+        <text>Вы Профессор Сахаров. Да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="1">
+        <foto>plaerFoto26</foto>
+        <icon>STL</icon>
+        <text>Вы Сыч. Не приятный тип торгующий информацией, который не верит в существование «Сердце Оазиса» или у него просто ядерная боеголовка в шкафу.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="2">
+        <foto>plaerFoto27</foto>
+        <icon>NO</icon>
+        <text>Вы Шрам. Вел группу ученых, но не довел и теперь приходится бегать за каким-то Стрелком.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="3">
+        <foto>plaerFoto28</foto>
+        <icon>DLO</icon>
+        <text>Вы Генерал Крылов. Когда не знаешь как справится с тварями, которые лезут из под земли, просто отправь одного человека, один уж точно лучше справится, чем целая группа.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="4">
+        <foto>plaerFoto29</foto>
+        <icon>STL</icon>
+        <text>Вы Гарик. Многие не знаю как пройти в Припять, а он просто берет и делает это.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="5">
+        <foto>plaerFoto30</foto>
+        <icon>DLO</icon>
+        <text>Вы Генерал Воронин. Нужен "Бульдог-6" для проведения политики вооружённого нейтралитета со "Свободой".</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="1">
+        <foto>plaerFoto31</foto>
+        <icon>STL</icon>
+        <text>Вы Тремор. Главный сосун зоны, его даже кровососы воспринимают за своего.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="2">
+        <foto>plaerFoto32</foto>
+        <icon>NO</icon>
+        <text>Вы Тесак. Человек которого подкормил Дегтярёв, но в итоге он все равно укусил его за руку. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="3">
+        <foto>plaerFoto33</foto>
+        <icon>NO</icon>
+        <text>Вы Кракен. Отчаянно охотится за фляжкой профессора Иголкина.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="4">
+        <foto>plaerFoto34</foto>
+        <icon>VNO</icon>
+        <text>Вы Майор Махалов. Яркий пример коррупции в армии.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="5">
+        <foto>plaerFoto35</foto>
+        <icon>VNO</icon>
+        <text>Вы Прапорщик Шерстюк. Человек у которого за водку можно купить все, а если это все таки нельзя купить за водку, то можно купить за две водки.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="1">
+        <foto>plaerFoto36</foto>
+        <icon>BND</icon>
+        <text>Вы Клещ. Торговал еще в СССР, хотя тогда торговли не было, как и секса.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="2">
+        <foto>plaerFoto37</foto>
+        <icon>DLO</icon>
+        <text>Вы Морган. Отвечает за снабжение оружием отрядов Долга на станции Янов, но в определенный момент он что-то перепутал (или попутал) и начал продавать все бандитам.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="3">
+        <foto>plaerFoto38</foto>
+        <icon>NO</icon>
+        <text>Вы Волкодав. Первый, кто понял, что Меченный является терминатором в человеческой шкуре. А еще вы любите сбивать вертолеты.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="4">
+        <foto>plaerFoto39</foto>
+        <icon>STL</icon>
+        <text>Вы Черный. Хиробрин от мира Сталкера, а еще очень не любит делится водой.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="5">
+        <foto>plaerFoto40</foto>
+        <icon>VNO</icon>
+        <text>Вы Майор Халецкий. Люто ненавидит Зону и всё, что с ней связано: сталкеров, мутантов и даже торговца Сидоровича, хотя его понятно за что.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="1">
+        <foto>plaerFoto41</foto>
+        <icon>BND</icon>
+        <text>Вы Чапаев. К сожалению не рассказывает анекдоты про Петьку и Василья Ивановича. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="2">
+        <foto>plaerFoto42</foto>
+        <icon>STL</icon>
+        <text>Вы Пес. Ты пёс по всем признакам, кроме верности. А по сути брат Волка.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="3">
+        <foto>plaerFoto43</foto>
+        <icon>CHT</icon>
+        <text>Вы Лебедев. Двойной агент или в простонародье Крыса (хотя бы не с плешью на лопатке).</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="4">
+        <foto>plaerFoto44</foto>
+        <icon>DLO</icon>
+        <text>Вы Череп. Человек, который считает, что если взорвать стену, то база Свободы автоматический падет, в детстве похоже переиграл в Warcraft. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="5">
+        <foto>plaerFoto45</foto>
+        <icon>NO</icon>
+        <text>Вы Крюк. Говорят можно украсть ноутбук по стелсу, но это всего лишь очередной миф во вселенной сталкера.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="1">
+        <foto>plaerFoto46</foto>
+        <icon>NO</icon>
+        <text>Вы Ловкий. А ловко это он придумал, я даже с начала не понял. Оказался просто мародер (кто понял, тот поймет)</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="2">
+        <foto>plaerFoto47</foto>
+        <icon>NO</icon>
+        <text>Вы Душман. Не смог ни кого задушить, потому что его заранее вырезали из игры.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="3">
+        <foto>plaerFoto48</foto>
+        <icon>STL</icon>
+        <text>Вы Ванька Гитлер. Кто же мог подумать, что он предаст и заведет в ловушку к Кровососам.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="4">
+        <foto>plaerFoto49</foto>
+        <icon>MRT</icon>
+        <text>Вы Генерал Смит. Как и положено генералу постоянно хочет коньяк, а в конце придает. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="5">
+        <foto>plaerFoto50</foto>
+        <icon>MO</icon>
+        <text>Вы О Сознание. Гении, которые смогли подключиться к ноосфере, но два раза подряд не смогли убить одного сталкера. Один раз даже переманив на свою сторону.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-1">
+        <foto>plaerFoto51</foto>
+        <icon>STL</icon>
+        <text>Вы Борода. Если бы у Сыча существовало альтор эго, то это бы был бы Борода, хот как известно, в каждом добре есть зло, а в каждом зле есть добро. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-2">
+        <foto>plaerFoto52</foto>
+        <icon>STL</icon>
+        <text>Вы Крот. Постоянно "Военные режут нашего брата-сталкера!", а стоит только выйти за забор они теряют его из виду.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-3">
+        <foto>plaerFoto53</foto>
+        <icon>SVB</icon>
+        <text>Вы Повар. Не то что бы по вкусу вкусно, но по сити вкусно.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-4">
+        <foto>plaerFoto54</foto>
+        <icon>SVB</icon>
+        <text>Вы Леший. Человек который опустил мост и попал в Пространственную аномалию и нет это не мод. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-5">
+        <foto>plaerFoto55</foto>
+        <icon>SVB</icon>
+        <text>Вы Чехов. "Приветствую в моей скромной берлоге!" хотя для зоны это уровень пяти звёздного отеля.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-1">
+        <foto>plaerFoto56</foto>
+        <icon>STL</icon>
+        <text>Вы Клык. Хотел бросить Стрелка, но бросил только экзоскелет в Припяти. А еще он бессмертен, но только в супе.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-2">
+        <foto>plaerFoto57</foto>
+        <icon>STL</icon>
+        <text>Вы Звездочет. Спасает Меченого, но в итоге хочет сделать большой бум и ему это удается, но только с помощью Клыка. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-3">
+        <foto>plaerFoto58</foto>
+        <icon>STL</icon>
+        <text>Вы Гаваец. "Подходи, брат! У меня как в Греции — всё есть!", но в итоге это был лишь провокационный маркетинг. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-4">
+        <foto>plaerFoto59</foto>
+        <icon>SVB</icon>
+        <text>Вы Локи. Не плохо сыграл в одноимённом сериале, но целовать самого себя... согласен даже вселенная этого не выдержала.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-5">
+        <foto>plaerFoto60</foto>
+        <icon>STL</icon>
+        <text>Вы Ной. Все думали, что он сумасшедший, но всех переиграл и уничтожил.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-1">
+        <foto>plaerFoto61</foto>
+        <icon>STL</icon>
+        <text>Вы Петруха. Сначала ты "Дружище, не шелести особо. Дай поясню ситуацию.", а потом посылаешь одного сталкера валить весь блокпост бандитов. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-2">
+        <foto>plaerFoto62</foto>
+        <icon>STL</icon>
+        <text>Вы Лис. Лучшая закуска для собак по мнению Педигри.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-3">
+        <foto>plaerFoto63</foto>
+        <icon>STL</icon>
+        <text>Вы Зверобой. Постоянно следит за вашим личным ящиком, но в самый нужный момент его нету рядом.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-4">
+        <foto>plaerFoto64</foto>
+        <icon>CHT</icon>
+        <text>Вы Холод. Считает, что нету болезни которою нельзя вылечить водкой, поэтому сразу предлагает выпить больному человеку.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-5">
+        <foto>plaerFoto65</foto>
+        <icon>SVB</icon>
+        <text>Вы Ганжа. В первую очередь он кальянной, а уже во вторую бармен.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-1">
+        <foto>plaerFoto66</foto>
+        <icon>STL</icon>
+        <text>Вы Фотограф (Юрий Семецкий). Встречает фразой "Ну и рожа я кажется памперсы на большой земле забыл".</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-2">
+        <foto>plaerFoto67</foto>
+        <icon>STL</icon>
+        <text>Вы Жекан. Единственный человек, который просочился в реальный мир и начала делать моды по своей вселенной.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-3">
+        <foto>plaerFoto68</foto>
+        <icon>STL</icon>
+        <text>Вы Шустрый. Красная нить, которая связывает все части игры.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-4">
+        <foto>plaerFoto69</foto>
+        <icon>STL</icon>
+        <text>Вы Лесник. "Вы кто такие ?! Я вас не звал ! Идите в Зону!"</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-5">
+        <foto>plaerFoto70</foto>
+        <icon>SVB</icon>
+        <text>Вы Дядька Яр. Единственный, кто считает, что в зоне можно открыть курорт и возить в неё пенсионеров.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="-1">
+        <foto>plaerFoto71</foto>
+        <icon>STL</icon>
+        <text>Вы Юрик. Единственный в зоне читал Шерлока Хомса.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="-2">
+        <foto>plaerFoto72</foto>
+        <icon>STL</icon>
+        <text>Вы Кардан. "Ну чтобы руки не дрожали", но после  «Изделия № 62» руки перестают дрожать навсегда.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="-3">
+        <foto>plaerFoto73</foto>
+        <icon>STL</icon>
+        <text>Вы Азот. Тот самый тайный разработчик Буханки и роботов Вовчик.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="-4">
+        <foto>plaerFoto74</foto>
+        <icon>SLT</icon>
+        <text>Вы Толик. Бессмертный человек решивший сбить военный вертолет из ПМа.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="5" lavelOrderAndChaos="-5">
+        <foto>plaerFoto75</foto>
+        <icon>SLT</icon>
+        <text>Вы Вано. Самый жизнерадостный человек в зоне, если солнце потухнет, то его улыбка будет освещать землю.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-1">
+        <foto>plaerFoto76</foto>
+        <icon>STL</icon>
+        <text>Вы Арни. "На арене два свежайших куска мяса!"</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-2">
+        <foto>plaerFoto77</foto>
+        <icon>STL</icon>
+        <text>Вы Аким. Коллекционер рук зомби и спрятанных документов, а также других душных квестов.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-3">
+        <foto>plaerFoto78</foto>
+        <icon>STL</icon>
+        <text>Вы Осведомитель. Темная сторона зоны, знает все и обо всех.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-4">
+        <foto>plaerFoto79</foto>
+        <icon>STL</icon>
+        <text>Вы Колдун. Использует черную магию для решения забаганных моментов в зоне.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-5">
+        <foto>plaerFoto80</foto>
+        <icon>SVB</icon>
+        <text>Вы Лукаш. Является отсылкой к большому любителю картошки.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-1">
+        <foto>plaerFoto81</foto>
+        <icon>STL</icon>
+        <text>Вы Коряга. Безобидный на вид сталкер внутри которого сидит, тот еще предатель и обманщик.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-2">
+        <foto>plaerFoto82</foto>
+        <icon>BND</icon>
+        <text>Вы Султан. Имеет охранника который не умеет выговаривать "тут это..." </text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-3">
+        <foto>plaerFoto83</foto>
+        <icon>STL</icon>
+        <text>Вы Авоска. Его вообще кто ни будь помнит ?</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-4">
+        <foto>plaerFoto84</foto>
+        <icon>BND</icon>
+        <text>Вы Живодер. По имени сразу видно, что он выдает квест на "Стрельбу по воронам".</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-5">
+        <foto>plaerFoto85</foto>
+        <icon>MO</icon>
+        <text>Вы Молитвенник. Не разу не пропустил утренний намаз и даже если ему дать подзатыльник не перестанет молится.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-1">
+        <foto>plaerFoto86</foto>
+        <icon>STL</icon>
+        <text>Вы Дед Западло. Второй главный вор тайников в зоне, после главных героев.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-2">
+        <foto>plaerFoto87</foto>
+        <icon>SVB</icon>
+        <text>Вы Гандук. Морган от мира свободы.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-3">
+        <foto>plaerFoto88</foto>
+        <icon>BND</icon>
+        <text>Вы Йога. Единственный пахан, который считает главного героя красивым, "Ой-вэй! Это кто тут у нас такой красивый нарисовался?!"</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-4">
+        <foto>plaerFoto89</foto>
+        <icon>STL</icon>
+        <text>Вы Упырь. Тот самый одноклассник, который докапывался до тебя с просьбой купить слона, но он вырос и пошел в зону, а слона всё-таки продали за гаусс-пушку.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-5">
+        <foto>plaerFoto90</foto>
+        <icon>MO</icon>
+        <text>Вы Проповедник. Стучится к вас в дверь и спрашивает "Вы хотите поговорить о монолите?".</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-1">
+        <foto>plaerFoto91</foto>
+        <icon>BND</icon>
+        <text>Вы Малой. Запомнился миру только, тем что выжил в битве с фотографом и еще успел надоесть стрелку в мертвом городе.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-2">
+        <foto>plaerFoto92</foto>
+        <icon>SVB</icon>
+        <text>Вы Флинт. Здоровается фразой "Очень приятно, гнида, ой то есть Флитн."</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-3">
+        <foto>plaerFoto93</foto>
+        <icon>BND</icon>
+        <text>Вы Боров. После становления паханом начал печь какие-то магические харчи, на которых так отъелся, что теперь не может выйти из комнаты.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-4">
+        <foto>plaerFoto94</foto>
+        <icon>MO</icon>
+        <text>Вы Махон. Доверено лицо Харона, заведует столовой в которой питается весь монолит, говорят он что-то подмешивает в суп, что бы монолит лучше сражался.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-5">
+        <foto>plaerFoto95</foto>
+        <icon>MO</icon>
+        <text>Вы Харон. Глава который при штурме его базы сидит в подвале и не выходит от туда, из-за этой особенности может останеться единственным монолитовцем в зоне.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="-1">
+        <foto>plaerFoto96</foto>
+        <icon>BND</icon>
+        <text>Вы Люциан. Второй пахан на затоне после Султана.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="-2">
+        <foto>plaerFoto97</foto>
+        <icon>MO</icon>
+        <text>Вы Иуда. На удивление ни кого не предает, но играет на деньги в азартные игры.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="-3">
+        <foto>plaerFoto98</foto>
+        <icon>MO</icon>
+        <text>Вы Ворон. На вид и суть одинаковый.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="-4">
+        <foto>plaerFoto99</foto>
+        <icon>DLO</icon>
+        <text>Вы Доктор Лектор. А если бы его звали Лисфи мог бы быть хорошим человеком, но а так занимается вскрытием пациентов и выяснят, что пациенты умерли в процессе вскрытия.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-5" lavelOrderAndChaos="-5">
+        <foto>plaerFoto100</foto>
+        <icon>MO</icon>
+        <text>Вы Меняющий лица. Если начать серьезно рассуждать о нем, то можно попасть в сюжет на рен-тв.</text>
+    </plaer>
+</plaers>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plaers>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="1">
+        <foto>BZD_DOLG</foto>
+        <icon>NULL</icon>
+        <text>База Долга.
+Место где собираются все главные вояки Зоны или точнее вояки с Зоной.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="2">
+        <foto>BZD_OTHOD</foto>
+        <icon>NULL</icon>
+        <text>Станция переработки отходов.
+Место притягивающее наемников и прочих подозрительных личностей. Имеет множество тайных проходов, которые сложно охранят.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="3">
+        <foto>BZD_OTHOD</foto>
+        <icon>NULL</icon>
+        <text>Станция переработки отходов.
+Место притягивающее наемников и прочих подозрительных личностей. Имеет множество тайных проходов, которые сложно охранят.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="4">
+        <foto>BZD_IANOV</foto>
+        <icon>NULL</icon>
+        <text>Янов.
+"Это станция Янов, единственное безлопастное место в районе Юпитера." Здесь вы остановитесь для своей жизни в зоне.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="1">
+        <foto>BZD_BAR</foto>
+        <icon>NULL</icon>
+        <text>Бар.
+Самое популярное место в зоне. Если вы хотите найти собутыльника вам сюда.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="2">
+        <foto>BZD_LES</foto>
+        <icon>NULL</icon>
+        <text>Лесопилка.
+Место проживания всех людей смотревших телевизор на протяжении всей жизни.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="3">
+        <foto>BZD_LES.jpg</foto>
+        <icon>NULL</icon>
+        <text>Лесопилка.
+Место проживания всех людей смотревших телевизор на протяжении всей жизни.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="4">
+        <foto>BZD_IANOV</foto>
+        <icon>NULL</icon>
+        <text>Янов.
+"Это станция Янов, единственное безлопастное место в районе Юпитера." Здесь вы остановитесь для своей жизни в зоне.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="1">
+        <foto>BZD_BAR</foto>
+        <icon>NULL</icon>
+        <text>Бар.
+Самое популярное место в зоне. Если вы хотите найти собутыльника вам сюда.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="2">
+        <foto>BZD_SVO</foto>
+        <icon>NULL</icon>
+        <text>База Свободы.
+Место где можно познать Дзен с помощью подозрительных препаратов.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="3">
+        <foto>BZD_LESN</foto>
+        <icon>NULL</icon>
+        <text>Лесничество.
+Идеальное место для свершения различных подозрительных сделок.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="4">
+        <foto>BZD_GEN</foto>
+        <icon>NULL</icon>
+        <text>Генераторы.
+Место где находятся все главные загадки зоны. </text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="1">
+        <foto>BZD_VOEN</foto>
+        <icon>NULL</icon>
+        <text>Военная база.
+Единственная передовая база военных в зоне, которая не так уж и сильно охранялась, раз её смог уничтожить один человек.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="2">
+        <foto>BZD_SVO</foto>
+        <icon>NULL</icon>
+        <text>База Свободы.
+Место где можно познать Дзен с помощью подозрительных препаратов.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="3">
+        <foto>BZD_SVO</foto>
+        <icon>NULL</icon>
+        <text>База Свободы.
+Место где можно познать Дзен с помощью подозрительных препаратов.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="4">
+        <foto>BZD_GEN</foto>
+        <icon>NULL</icon>
+        <text>Генераторы.
+Место где находятся все главные загадки зоны.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="1">
+        <foto>BZD_DOLG</foto>
+        <icon>NULL</icon>
+        <text>База Долга.
+Место где собираются все главные вояки Зоны или точнее вояки с Зоной.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="2">
+        <foto>BZD_METGOR</foto>
+        <icon>NULL</icon>
+        <text>Мертвый город.
+Место которое очень полюбилось наемникам из-за своего местоположения.
+</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="3">
+        <foto>BZD_SCAD</foto>
+        <icon>NULL</icon>
+        <text>Скадовск.
+Не потопляемый сухогруз посреди зоны. Как говорится "Наш "Скадовск" всегда на месте, никуда не уплывет"</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="4">
+        <foto>BZD_IANOV</foto>
+        <icon>NULL</icon>
+        <text>Янов.
+"Это станция Янов, единственное безлопастное место в районе Юпитера." Здесь вы остановитесь для свое жизни в зоне.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="1">
+        <foto>BZD_DOLG</foto>
+        <icon>NULL</icon>
+        <text>База Долга.
+Место где собираются все главные вояки Зоны или точнее вояки с Зоной.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="2">
+        <foto>BZD_METGOR</foto>
+        <icon>NULL</icon>
+        <text>Мертвый город.
+Место которое очень полюбилось наемникам из-за своего местоположения.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="3">
+        <foto>BZD_SCAD</foto>
+        <icon>NULL</icon>
+        <text>Скадовск.
+Не потопляемый сухогруз посреди зоны. Как говорится "Наш "Скадовск" всегда на месте, никуда не уплывет"</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="4">
+        <foto>BZD_DKEN</foto>
+        <icon>NULL</icon>
+        <text>ДК Энергетик.
+Место расположения монолита и таинственной лаборатории.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="1">
+        <foto>BZD_ATP</foto>
+        <icon>NULL</icon>
+        <text>АТП.
+Одна из главных баз бандитов, которые любят всякие перекрестки, маслины и чики-брики.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="2">
+        <foto>BZD_UCINOV</foto>
+        <icon>NULL</icon>
+        <text>Бункер ученых на Янове.
+Передовая база ученых жадно изучающих Зону, но совершенно наплевательский относящихся к своей безопасности.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="3">
+        <foto>BZD_SHAHT</foto>
+        <icon>NULL</icon>
+        <text>Шахтерский копер.
+Спокойное место. В котором живет один лесник,  который может по рассказывать различные истории.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="4">
+        <foto>BZD_DKEN</foto>
+        <icon>NULL</icon>
+        <text>ДК Энергетик.
+Место расположения монолита и таинственной лаборатории.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="1">
+        <foto>BZD_STREL</foto>
+        <icon>NULL</icon>
+        <text>Убежище стрелка.
+Самое скрытное место зоны, в которое стремится любой сталкер, чтобы прикоснуться хоть не много к тайнам Зоны.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="2">
+        <foto>BZD_UCHIANTAR</foto>
+        <icon>NULL</icon>
+        <text>Бункер Ученых на Янтаре.
+Да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да да-да.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="3">
+        <foto>BZD_SHAHT</foto>
+        <icon>NULL</icon>
+        <text>Шахтерский копер.
+Спокойное место. В котором живет один лесник,  который может по рассказывать различные истории.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="4">
+        <foto>BZD_PRACH</foto>
+        <icon>NULL</icon>
+        <text>Прачечная.
+Единственное более менее безлопастное место в восточной Припяти.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-1">
+        <foto>BZD_DEPO</foto>
+        <icon>NULL</icon>
+        <text>Депо.
+Предбанник для бара, который очень любят штурмовать бандиты.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-2">
+        <foto>BZD_DEPO</foto>
+        <icon>NULL</icon>
+        <text>Депо.
+Предбанник для бара, который очень любят штурмовать бандиты.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="1" lavelOrderAndChaos="-3">
+        <foto>BZD_NEBO</foto>
+        <icon>NULL</icon>
+        <text>База чистого неба.
+Место, где собираются люди, которые хотят изучать зону.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-1">
+        <foto>BZD_BAR</foto>
+        <icon>NULL</icon>
+        <text>Бар.
+Самое популярное место в зоне. Если вы хотите найти собутыльника вам сюда.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-2">
+        <foto>BZD_TEMNA</foto>
+        <icon>NULL</icon>
+        <text>Старая фабрика в темной долине.
+Самое любимое место бандитов.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="2" lavelOrderAndChaos="-3">
+        <foto>BZD_NEBO</foto>
+        <icon>NULL</icon>
+        <text>База чистого неба.
+Место, где собираются люди, которые хотят изучать зону.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-1">
+        <foto>BZD_ZAVOD</foto>
+        <icon>NULL</icon>
+        <text>Завод Агропром.
+Место из которого постоянно выбивают военные сталкеров.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-2">
+        <foto>BZD_ZAVOD</foto>
+        <icon>NULL</icon>
+        <text>Завод Агропром.
+Место из которого постоянно выбивают военные сталкеров.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="3" lavelOrderAndChaos="-3">
+        <foto>BZD_MEHAN</foto>
+        <icon>NULL</icon>
+        <text>Механизаторский двор.
+База, которая переходит из рук в руки от военных к ренегатам и к чистому небу.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-1">
+        <foto>BZD_VOEN</foto>
+        <icon>NULL</icon>
+        <text>Военная база.
+Единственная передовая база военных в зоне, которая не так уж и сильно охранялась, раз её смог уничтожить один человек.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-2">
+        <foto>BZD_VOEN</foto>
+        <icon>NULL</icon>
+        <text>Военная база.
+Единственная передовая база военных в зоне, которая не так уж и сильно охранялась, раз её смог уничтожить один человек.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="4" lavelOrderAndChaos="-3">
+        <foto>BZD_MEHAN</foto>
+        <icon>NULL</icon>
+        <text>Механизаторский двор.
+База, которая переходит из рук в руки от военных к ренегатам и к чистому небу.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-1">
+        <foto>BZD_FERMADOL</foto>
+        <icon>NULL</icon>
+        <text>Заброшенная Ферма.
+Постоянное место торговли гаус-пушками за 500 денег.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-2">
+        <foto>BZD_DERNOV</foto>
+        <icon>NULL</icon>
+        <text>Деревня новичков.
+Это база. База для всех сталкеров новичков. Со своими легендарными атрибутами в виде Сидоровича.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-1" lavelOrderAndChaos="-3">
+        <foto>BZD_NEBO</foto>
+        <icon>NULL</icon>
+        <text>База чистого неба.
+Место, где собираются люди, которые хотят изучать зону.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-1">
+        <foto>BZD_FERMACORD</foto>
+        <icon>NULL</icon>
+        <text>Ферма на кордоне.
+База сталкеров, которую решил основать Валерьян, но она была разрушена после второго Сверхвыброса.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-2">
+        <foto>BZD_FERMACORD</foto>
+        <icon>NULL</icon>
+        <text>Ферма на кордоне.
+База сталкеров, которую решил основать Валерьян, но она была разрушена после второго Сверхвыброса.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-2" lavelOrderAndChaos="-3">
+        <foto>BZD_DERNOV</foto>
+        <icon>NULL</icon>
+        <text>Деревня новичков.
+Это база. База для всех сталкеров новичков. Со своими легендарными атрибутами в виде Сидоровича.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-1">
+        <foto>BZD_SEVERKPP</foto>
+        <icon>NULL</icon>
+        <text>Военный Блокпост.
+Пропускной пункт на свалку и один из не многих способов выбраться с кордона относительно безопасно, если из слова безопасно исключить слово бандиты.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-2">
+        <foto>BZD_FERMACORD</foto>
+        <icon>NULL</icon>
+        <text>Ферма на кордоне.
+База сталкеров, которую решил основать Валерьян, но она была разрушена после второго Сверхвыброса.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-3" lavelOrderAndChaos="-3">
+        <foto>BZD_DERNOV</foto>
+        <icon>NULL</icon>
+        <text>Деревня новичков.
+Это база. База для всех сталкеров новичков. Со своими легендарными атрибутами в виде Сидоровича</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-1">
+        <foto>BZD_STREL</foto>
+        <icon>NULL</icon>
+        <text>Убежище стрелка.
+Самое скрытное место зоны, в которое стремится любой сталкер, чтобы прикоснуться хоть не много к тайнам Зоны.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-2">
+        <foto>BZD_SEVERKPP</foto>
+        <icon>NULL</icon>
+        <text>Военный Блокпост.
+Пропускной пункт на свалку и один из не многих способов выбраться с кордона относительно безопасно, если из слова безопасно исключить слово бандиты.</text>
+    </plaer>
+    <plaer lavelGoodAndBead="-4" lavelOrderAndChaos="-3">
+        <foto>BZD_KPP</foto>
+        <icon>NULL</icon>
+        <text>КПП
+"Защищает от заразы зоны" и "Защищает не вас от зоны, а зону от вас.".</text>
+    </plaer>
+</plaers>
