@@ -1,0 +1,19 @@
+{
+    "name": "Plaer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9f931f3f9e6c6674598de1655861ff98",
+        "GUID:bd1eaf5783e948c4c8cb3363f0d5179d",
+        "GUID:b9dc78fe7bbcfd547a1a8b20f924ebc0",
+        "GUID:12c396a9e6afdbd49a545ca6f9f1a62a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

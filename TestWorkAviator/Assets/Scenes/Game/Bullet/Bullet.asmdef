@@ -1,0 +1,18 @@
+{
+    "name": "Bullet",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bd1eaf5783e948c4c8cb3363f0d5179d",
+        "GUID:12c396a9e6afdbd49a545ca6f9f1a62a",
+        "GUID:9f931f3f9e6c6674598de1655861ff98"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

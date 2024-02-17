@@ -1,0 +1,21 @@
+{
+    "name": "Spavner",
+    "rootNamespace": "",
+    "references": [
+        "GUID:57853430d1310264db5c26305bb15d99",
+        "GUID:9f931f3f9e6c6674598de1655861ff98",
+        "GUID:12c396a9e6afdbd49a545ca6f9f1a62a",
+        "GUID:b9dc78fe7bbcfd547a1a8b20f924ebc0",
+        "GUID:b02a9aa913451a74fbc004693c885d55",
+        "GUID:0dffcaf4f9442b64cbb657ea0fc905aa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
